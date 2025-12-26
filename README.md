@@ -8,7 +8,6 @@ This repository contains a Power BI project file (CREDIT_CARD_ANALYSIS.pbix) dev
 
 Project Objectives :-
 
-
 •	Analyze credit card transactions and usage patterns
 
 •	Monitor key performance indicators (KPIs)
